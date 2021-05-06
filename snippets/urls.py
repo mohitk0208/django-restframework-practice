@@ -10,6 +10,8 @@ urlpatterns = [
 ]
 
 
+
+
 #---------------------- with function views----------------
 
 # urlpatterns = [
